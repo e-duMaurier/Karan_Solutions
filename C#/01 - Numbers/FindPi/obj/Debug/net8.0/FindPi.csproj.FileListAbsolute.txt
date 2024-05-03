@@ -1,0 +1,15 @@
+f:\Projects\Exercises\Karan_Solutions\C#\01 - Numbers\FindPi\bin\Debug\net8.0\FindPi.exe
+f:\Projects\Exercises\Karan_Solutions\C#\01 - Numbers\FindPi\bin\Debug\net8.0\FindPi.deps.json
+f:\Projects\Exercises\Karan_Solutions\C#\01 - Numbers\FindPi\bin\Debug\net8.0\FindPi.runtimeconfig.json
+f:\Projects\Exercises\Karan_Solutions\C#\01 - Numbers\FindPi\bin\Debug\net8.0\FindPi.dll
+f:\Projects\Exercises\Karan_Solutions\C#\01 - Numbers\FindPi\bin\Debug\net8.0\FindPi.pdb
+f:\Projects\Exercises\Karan_Solutions\C#\01 - Numbers\FindPi\obj\Debug\net8.0\FindPi.GeneratedMSBuildEditorConfig.editorconfig
+f:\Projects\Exercises\Karan_Solutions\C#\01 - Numbers\FindPi\obj\Debug\net8.0\FindPi.AssemblyInfoInputs.cache
+f:\Projects\Exercises\Karan_Solutions\C#\01 - Numbers\FindPi\obj\Debug\net8.0\FindPi.AssemblyInfo.cs
+f:\Projects\Exercises\Karan_Solutions\C#\01 - Numbers\FindPi\obj\Debug\net8.0\FindPi.csproj.CoreCompileInputs.cache
+f:\Projects\Exercises\Karan_Solutions\C#\01 - Numbers\FindPi\obj\Debug\net8.0\FindPi.sourcelink.json
+f:\Projects\Exercises\Karan_Solutions\C#\01 - Numbers\FindPi\obj\Debug\net8.0\FindPi.dll
+f:\Projects\Exercises\Karan_Solutions\C#\01 - Numbers\FindPi\obj\Debug\net8.0\refint\FindPi.dll
+f:\Projects\Exercises\Karan_Solutions\C#\01 - Numbers\FindPi\obj\Debug\net8.0\FindPi.pdb
+f:\Projects\Exercises\Karan_Solutions\C#\01 - Numbers\FindPi\obj\Debug\net8.0\FindPi.genruntimeconfig.cache
+f:\Projects\Exercises\Karan_Solutions\C#\01 - Numbers\FindPi\obj\Debug\net8.0\ref\FindPi.dll
