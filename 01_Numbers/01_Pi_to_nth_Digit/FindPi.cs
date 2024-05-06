@@ -1,4 +1,4 @@
-﻿/*
+/*
  Project: Pi to the nth Digit
  Author: Emma du Maurier
  Date: 03 May 2024
