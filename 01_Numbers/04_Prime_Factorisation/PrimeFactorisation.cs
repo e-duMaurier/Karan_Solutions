@@ -1,5 +1,5 @@
 /*
-    Project: Prime Factorisation for user entered number
+    Project: Prime Factorisation
     Author: Emma du Maurier
     Date: 06 May 2024
     Description: Enter a number and find all the Prime Factors in this number

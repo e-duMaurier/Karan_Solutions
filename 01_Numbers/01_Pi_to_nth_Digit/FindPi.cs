@@ -1,5 +1,5 @@
 /*
- Project: Pi to the nth Digit
+ Project: Find Pi
  Author: Emma du Maurier
  Date: 03 May 2024
  Description: Enter a number and have the program generate PI up to that many decimal places.

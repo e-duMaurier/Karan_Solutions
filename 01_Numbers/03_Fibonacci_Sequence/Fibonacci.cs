@@ -1,5 +1,5 @@
 /*
- * Project: Generate Fibonacci Sequence to nth number
+ * Project: Fibonacci
  * Author: Emma du Maurier
  * Date: 06 May 2024
  * Description: Enter a number and have the program generate the Fibonacci sequence up to that many places.

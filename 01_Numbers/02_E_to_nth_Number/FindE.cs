@@ -1,5 +1,5 @@
 /*
- Project: E to the nth Digit
+ Project: Find E
  Author: Emma du Maurier
  Date: 06 May 2024
  Description: Enter a number and have the program generate Euler's Number up to that many decimal places.
