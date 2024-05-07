@@ -1,3 +1,12 @@
+/*
+ * Project: Coin Toss
+ * Author: Emma du Maurier
+ * Date: 07 May 2024
+ * Description: Simulate flipping a single coin however many times the user decides. 
+ * The code records the outcomes and counts the number of tails and heads.
+ * This is displayed once all coin flips are completed.
+*/
+
 namespace Karan_Solutions;
 
 internal static class CoinToss
